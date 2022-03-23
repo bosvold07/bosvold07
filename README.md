@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bosvold07
 - 👀 I’m interested in Data Science, Python, Databases/SQL, Data Analysis, ML/AI
 - 🌱 I’m currently working towards my Masters in Data Science
-- 💞️ I’m looking to collaborate on Python, Datas Analysis
+- 💞️ I’m looking to collaborate on Python, Data Analysis
 
 
 <!---
